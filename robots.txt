@@ -1,37 +1,7 @@
-# robots.txt for spunk.work
-# Optimized for SEO — allow all search engines and AI crawlers
-
 User-agent: *
-Allow: /
-Allow: /blog/
-
-Disallow: /CNAME
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: Anthropic-AI
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: Applebot-Extended
 Allow: /
 
 Sitemap: https://spunk.work/sitemap.xml
+
+# SPUNK.WORK - Free Remote Work & Freelancing Tools
+# https://spunk.work
