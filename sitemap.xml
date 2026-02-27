@@ -7,7 +7,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/best-ai-tools-for-freelancers-to-save-time-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/best-coworking-spaces-alternatives-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -31,7 +43,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/best-freelance-platforms-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/best-freelance-websites-for-beginners-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/best-invoicing-practices-freelancers-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -73,13 +97,49 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/freelance-burnout-recovery-guide-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/freelance-contract-template-guide-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/freelance-email-templates-every-situation-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/freelance-niche-selection-guide-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/freelance-portfolio-guide-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/freelance-pricing-psychology-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/freelance-rate-calculator-guide</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/freelance-retainer-agreement-guide-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -103,6 +163,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/how-to-build-a-freelance-portfolio-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/how-to-build-passive-income-as-freelancer-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -115,13 +181,43 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/how-to-fire-a-client-professionally-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/how-to-get-first-client-as-freelancer-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/how-to-get-freelance-clients-without-upwork-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/how-to-make-money-freelancing-beginners-guide-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/how-to-manage-multiple-freelance-clients-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/how-to-negotiate-freelance-rates-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/how-to-scale-freelancing-to-agency-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -145,6 +241,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://spunk.work/blog/how-to-write-a-freelance-bio-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://spunk.work/blog/how-to-write-a-resume-with-no-experience-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -158,6 +260,12 @@
   </url>
   <url>
     <loc>https://spunk.work/blog/how-to-write-freelance-proposal-that-wins-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/remote-team-communication-guide-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -182,6 +290,12 @@
   </url>
   <url>
     <loc>https://spunk.work/blog/work-from-home-jobs-for-moms-2026</loc>
+    <lastmod>2026-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://spunk.work/blog/work-from-home-setup-guide-2026</loc>
     <lastmod>2026-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
